@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/award-front-end/static/css/main.00982e3a.chunk.css",
+    "main.js": "/award-front-end/static/js/main.2cc48573.chunk.js",
+    "main.js.map": "/award-front-end/static/js/main.2cc48573.chunk.js.map",
+    "runtime-main.js": "/award-front-end/static/js/runtime-main.4d4f85f0.js",
+    "runtime-main.js.map": "/award-front-end/static/js/runtime-main.4d4f85f0.js.map",
+    "static/js/2.27d5849b.chunk.js": "/award-front-end/static/js/2.27d5849b.chunk.js",
+    "static/js/2.27d5849b.chunk.js.map": "/award-front-end/static/js/2.27d5849b.chunk.js.map",
+    "static/js/3.6504ac59.chunk.js": "/award-front-end/static/js/3.6504ac59.chunk.js",
+    "static/js/3.6504ac59.chunk.js.map": "/award-front-end/static/js/3.6504ac59.chunk.js.map",
+    "index.html": "/award-front-end/index.html",
+    "static/css/main.00982e3a.chunk.css.map": "/award-front-end/static/css/main.00982e3a.chunk.css.map",
+    "static/js/2.27d5849b.chunk.js.LICENSE.txt": "/award-front-end/static/js/2.27d5849b.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/award-front-end/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4f85f0.js",
+    "static/js/2.27d5849b.chunk.js",
+    "static/css/main.00982e3a.chunk.css",
+    "static/js/main.2cc48573.chunk.js"
+  ]
+}
